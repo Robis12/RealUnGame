@@ -1,0 +1,4 @@
+Player 모델 리소스입니다.
+https://drive.google.com/file/d/1IHDHw3SygcyYNjlvGSeuMLFjbu3YDwMM/view?usp=sharing
+
+RealUnGame 폴더에 압축을 풀어주세요
